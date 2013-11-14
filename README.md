@@ -1,4 +1,4 @@
-learnsymfony
-============
+Learn Symfony
+=============
 
 Learn Symfony
