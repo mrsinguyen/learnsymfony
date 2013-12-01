@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -171,8 +170,3 @@ Enjoy!
 [12]: http://symfony.com/doc/2.3/cookbook/assetic/asset_management.html
 [13]: http://symfony.com/doc/2.3/bundles/SensioGeneratorBundle/index.html
 =======
-Learn Symfony
-=============
-
-Learn Symfony
->>>>>>> 52db417d732a83efedef21f594d2a197f5cc2c77
